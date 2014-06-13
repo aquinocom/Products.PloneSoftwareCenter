@@ -1366,24 +1366,24 @@ msgstr ""
 #. Default: "Support"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:74
 msgid "label_resource_support"
-msgstr ""
+msgstr "Suporte"
 
 #. Default: "Independent Review Comment"
 #: ../content/project.py:170
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:82
 msgid "label_review_comment"
-msgstr ""
+msgstr "Comentário da versão"
 
 #. Default: "Roadmap proposal types"
 #: ../content/proposalfolder.py:59
 msgid "label_roadmap_types"
-msgstr ""
+msgstr "Tipos de roteiro das propostas"
 
 #. Default: "RSS Feed"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:28
 #: ../skins/plonesoftwarecenter/portlet_releases.pt:33
 msgid "label_rss_feed"
-msgstr ""
+msgstr "Canal RSS"
 
 #. Default: "Screenshot — click to enlarge"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:123
@@ -1393,17 +1393,17 @@ msgstr ""
 #. Default: "Self-Certification"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:66
 msgid "label_self_certification"
-msgstr ""
+msgstr "Padrões utilizados"
 
 #. Default: "Self-Certification Checklist"
 #: ../content/project.py:146
 msgid "label_self_certification_checklist"
-msgstr ""
+msgstr "Checklist dos padrões utilizados"
 
 #. Default: "Self-Certification Checklist"
 #: ../content/root.py:164
 msgid "label_self_certification_criteria_vocab"
-msgstr ""
+msgstr "Checklist dos padrões utilizados"
 
 #. Default: "Release roadmap for ${project}…"
 #: ../skins/plonesoftwarecenter/portlet_project_roadmap.pt:57
@@ -1414,142 +1414,142 @@ msgstr "Exibir próximos lançamentos"
 #. Default: "Storage strategy"
 #: ../content/root.py:231
 msgid "label_storage_strategy"
-msgstr ""
+msgstr "Framework"
 
 #. Default: "Unsupported versions"
 #: ../content/project.py:182
 msgid "label_unsupported_versions"
-msgstr ""
+msgstr "Versões não supertadas"
 
 #. Default: "&laquo; Back to project overview"
 #: ../skins/plonesoftwarecenter/psc_categories_view.pt:29
 msgid "label_up_to_product_overview"
-msgstr ""
+msgstr "&laquo; Voltar para visão global do projeto"
 
 #. Default: "&laquo; Back to project page"
 #: ../skins/plonesoftwarecenter/psc_releasefolder_view.pt:36
 #, fuzzy
 msgid "label_up_to_product_page"
-msgstr "Voltar para a página do Produto"
+msgstr "&laquo; Voltar para a página do projeto"
 
 #. Default: "&laquo; Back to project overview"
 #: ../skins/plonesoftwarecenter/by-category.pt:40
 msgid "label_up_to_project_overview"
-msgstr ""
+msgstr "&laquo; Voltar para visão global do projeto"
 
 #. Default: "Use Classifiers to display Categories (with Topic :: *)."
 #: ../content/root.py:64
 msgid "label_use_classifier"
-msgstr ""
+msgstr "VERIFICAR Use classificadores para exibir categorias (com tópicos :: *)"
 
 #. Default: "Versions"
 #: ../content/root.py:119
 msgid "label_versions_vocab"
-msgstr ""
+msgstr "Versões"
 
 #. Default: "No projects found in this category."
 #: ../skins/plonesoftwarecenter/by-category.pt:50
 msgid "no_packages_found"
-msgstr ""
+msgstr "Nenhum projeto nesta categoria"
 
 #. Default: "No releases made in this category yet"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:134
 msgid "no_releases_found"
-msgstr ""
+msgstr "Nenhum lançamento nesta categoria"
 
 #. Default: "Documentation audiences"
 #: ../content/docfolder.py:68
 msgid "phc_label_audience_helpcenter"
-msgstr ""
+msgstr "Público alvo"
 
 #. Default: "Released ${name_released_date}<br />"
 #: ../skins/plonesoftwarecenter/portlet_project_roadmap.pt:33
 msgid "portlet_project_roadmap_released_date"
-msgstr ""
+msgstr "Lançamento"
 
 #. Default: "Planned release: ${name_upcoming_release}<br />"
 #: ../skins/plonesoftwarecenter/portlet_project_roadmap.pt:40
 msgid "portlet_project_roadmap_upcoming_release"
-msgstr ""
+msgstr "VERIFICAR Versão planejada"
 
 #. Default: "Audiences are optional. One type of audience on each line. If you leave this blank, audience information will not be used. Audience is typically 'End user', 'Developer' and similar."
 #: ../content/docfolder.py:69
 msgid "psc_audience_helpcenter"
-msgstr ""
+msgstr "Público alvo (Usuário final, Desenvolvedor ou similar). Caso deixe em branco esta informação não será utilizada."
 
 #. Default: "Read More…"
 #: ../skins/plonesoftwarecenter/by-category.pt:93
 msgid "read_more"
-msgstr ""
+msgstr "leia mais"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:158
 msgid "tested with"
-msgstr ""
+msgstr "testado em"
 
 #. Default: "Current release for the project"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:145
 msgid "title_latest_release_project"
-msgstr ""
+msgstr "Versão atual do projeto"
 
-#. Default: "Subscribe to updates for this project"
+#. Default: "Sub1scribe to updates for this project"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:105
 msgid "title_portlet_project_resources_subscribe_updates"
-msgstr ""
+msgstr "Assine para acompanhar atualizações para este projeto"
 
 #. Default: "Documentation for this project"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:29
 msgid "title_project_resources_documentation"
-msgstr ""
+msgstr "Documentação"
 
 #. Default: "Plone Software Center's Home Page"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:159
 msgid "title_psc_homepage"
-msgstr ""
+msgstr "Página do Plone Software Center"
 
 #. Default: "Show all the projects in this category"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:141
 msgid "title_psc_show_all_projects"
-msgstr ""
+msgstr "Exibir todos os projetos desta categoria"
 
 #. Default: "The project page"
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:74
 msgid "title_release_additional_information"
-msgstr ""
+msgstr "Para informações complementares, acesse a página do projeto"
 
 #. Default: "Version control repository location for this project"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:49
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:104
 msgid "title_resource_code_repository"
-msgstr ""
+msgstr "Repositório de códigos"
 
 #. Default: "Contact address for this project"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:79
 msgid "title_resource_contact_address"
-msgstr ""
+msgstr "Endereço para contato"
 
 #. Default: "A place to submit bug reports and feature requests for this project"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:59
 msgid "title_resource_issue_tracker"
-msgstr ""
+msgstr "Relatar bugs"
 
 #. Default: "Additional home page for this project"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:39
 msgid "title_resource_project_page"
-msgstr ""
+msgstr "Página do projeto"
 
 #. Default: "Support options for this product"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:69
 msgid "title_resource_support"
-msgstr ""
+msgstr "Suporte"
 
 #. Default: "RSS feed of the latest releases"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:28
 #: ../skins/plonesoftwarecenter/portlet_releases.pt:33
 msgid "title_rss_feed"
-msgstr ""
+msgstr "Canal RSS com as últimas alterações"
 
 #. Default: "RSS feed for the latest releases in this category"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:97
 msgid "title_rss_feed_this_category"
-msgstr ""
+msgstr "Canal RSS com as últimas alterações d categoria"
 
