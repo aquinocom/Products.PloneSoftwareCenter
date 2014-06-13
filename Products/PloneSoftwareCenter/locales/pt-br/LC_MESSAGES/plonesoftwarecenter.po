@@ -1,12 +1,11 @@
 # PloneSoftwareCenter
 # Dorneles Treméa <deo@plonesolutions.com>, 2005.
-# Lucas Aquino <contato@lucasaquino.com.br>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: PloneSoftwareCenter\n"
 "POT-Creation-Date: 2013-09-20 16:06+0000\n"
 "PO-Revision-Date: 2005-03-11 02:50+0000\n"
-"Last-Translator: Lucas Aquino <contato@lucasaquino.com.br>\n"
+"Last-Translator: Dorneles Treméa <deo@plonesolutions.com>\n"
 "Language-Team: Plone-i18n <plone-i18n@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -235,12 +234,12 @@ msgstr "Ainda não existem lançamentos publicados neste projeto."
 #. Default: "No releases found."
 #: ../skins/plonesoftwarecenter/psc_releasefolder_view.pt:58
 msgid "description_no_releases_found"
-msgstr ""
+msgstr "Versões não encontradas"
 
 #. Default: "No results were found."
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:179
 msgid "description_no_results_found"
-msgstr ""
+msgstr "Resultados não encontrados"
 
 #. Default: "This listing will prioritize final releases, but will list the latest published release of any other type if no final release exists. If you list the source code repository in this project, it will show up, so people know where to go to check out in the code in the meantime."
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:126
@@ -251,7 +250,7 @@ msgstr "Esta listagem priorizará os lançamentos na maturidade 'Final', mas ir�
 #. Default: "For documentation items and releases, users will be warned if the relevant version is in the list on the right."
 #: ../content/project.py:183
 msgid "description_unsupported_versions"
-msgstr ""
+msgstr "Para os itens de documentação e versões, os usuários serão avisados ​​se a versão relevante está na lista à direita "
 
 #. Default: "Use the Add menu to add software files."
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:94
