@@ -1077,17 +1077,17 @@ msgstr ""
 #. Default: "Download Count"
 #: ../content/project.py:131
 msgid "label_project_download_count"
-msgstr ""
+msgstr "Contador de download"
 
 #. Default: "Project Evaluators"
 #: ../content/root.py:147
 msgid "label_project_evaluators"
-msgstr ""
+msgstr "Auditores"
 
 #. Default: "Project Resources"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:15
 msgid "label_project_resources"
-msgstr ""
+msgstr "Recursos do projeto"
 
 #. Default: "Documentation"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:34
@@ -1097,7 +1097,7 @@ msgstr "Documentação"
 #. Default: "Short name"
 #: ../content/project.py:40
 msgid "label_project_short_name"
-msgstr ""
+msgstr "Id"
 
 #. Default: "Project Summary"
 #: ../content/project.py:53
@@ -1107,112 +1107,112 @@ msgstr "Descrição do projeto"
 #. Default: "Projects in category ${label_projects_category_name}"
 #: ../skins/plonesoftwarecenter/by-category.pt:37
 msgid "label_projects_by_category"
-msgstr ""
+msgstr "Projetos da categoria "
 
 #. Default: "Proposal"
 #: ../content/proposal.py:113
 msgid "label_proposal"
-msgstr ""
+msgstr "Proposta"
 
 #. Default: "Assumptions"
 #: ../content/proposal.py:142
 msgid "label_proposal_assumptions"
-msgstr ""
+msgstr "Premissas"
 
 #. Default: "Branch name/URL"
 #: ../content/proposal.py:229
 msgid "label_proposal_branch_name_url"
-msgstr ""
+msgstr "Nome/URL do Branch"
 
 #. Default: "Definitions"
 #: ../content/proposal.py:128
 msgid "label_proposal_definitions"
-msgstr ""
+msgstr "Definições"
 
 #. Default: "Deliverables"
 #: ../content/proposal.py:172
 msgid "label_proposal_deliverables"
-msgstr ""
+msgstr "Entregas"
 
 #. Default: "Implementation"
 #: ../content/proposal.py:157
 msgid "label_proposal_implementation"
-msgstr ""
+msgstr "Implementação"
 
 #. Default: "Motivation"
 #: ../content/proposal.py:98
 msgid "label_proposal_motivation"
-msgstr ""
+msgstr "Motivação"
 
 #. Default: "Proposal number"
 #: ../content/proposal.py:32
 msgid "label_proposal_number"
-msgstr ""
+msgstr "Número da proposta"
 
 #. Default: "Participants"
 #: ../content/proposal.py:217
 msgid "label_proposal_participants"
-msgstr ""
+msgstr "Participantes"
 
 #. Default: "Progress log"
 #: ../content/proposal.py:202
 msgid "label_proposal_progress_log"
-msgstr ""
+msgstr "Progresso"
 
 #. Default: "Proposer"
 #: ../content/proposal.py:44
 msgid "label_proposal_proposer"
-msgstr ""
+msgstr "Propositor"
 
 #. Default: "Related Releases"
 #: ../content/proposal.py:240
 msgid "label_proposal_related_releases"
-msgstr ""
+msgstr "Versões relacionadas"
 
 #. Default: "Risks"
 #: ../content/proposal.py:187
 msgid "label_proposal_risks"
-msgstr ""
+msgstr "Riscos"
 
 #. Default: "Seconder"
 #: ../content/proposal.py:56
 msgid "label_proposal_seconder"
-msgstr ""
+msgstr "Co-propositor"
 
 #. Default: "Proposal Summary"
 #: ../content/proposal.py:69
 msgid "label_proposal_summary"
-msgstr ""
+msgstr "Descrição da proposta"
 
 #. Default: "Proposal types"
 #: ../content/proposal.py:84
 msgid "label_proposal_types"
-msgstr ""
+msgstr "Tipos de propostas"
 
 #. Default: "Description"
 #: ../content/proposalfolder.py:47
 msgid "label_proposalfolder_description"
-msgstr ""
+msgstr "Descrição"
 
 #. Default: "Short name"
 #: ../content/proposalfolder.py:23
 msgid "label_proposalfolder_short_name"
-msgstr ""
+msgstr "Id"
 
 #. Default: "Title"
 #: ../content/proposalfolder.py:35
 msgid "label_proposalfolder_title"
-msgstr ""
+msgstr "Título"
 
 #. Default: "Show all"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:144
 msgid "label_psc_show_all_projects"
-msgstr ""
+msgstr "Exibir todos"
 
 #. Default: "projects in this category…"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:146
 msgid "label_psc_show_all_projects_category"
-msgstr ""
+msgstr "Projetos nesta categoria..."
 
 #. Default: "Read more…"
 #: ../skins/plonesoftwarecenter/psc_release_listing.pt:42
@@ -1224,143 +1224,143 @@ msgstr "Leia mais"
 #. Default: "For additional information about this project, please visit the overview page"
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:76
 msgid "label_release_additional_information"
-msgstr ""
+msgstr "Pra informações adicionais, visite a página principal do projeto"
 
 #. Default: "Associated feature proposals"
 #: ../content/release.py:223
 msgid "label_release_associated_feature_proposals"
-msgstr ""
+msgstr "Propostas de funcionalidades associadas"
 
 #. Default: "Full Release Description"
 #: ../content/release.py:93
 msgid "label_release_body_text"
-msgstr ""
+msgstr "Descrição completa da versão"
 
 #. Default: "Changelog"
 #: ../content/release.py:107
 msgid "label_release_changelog"
-msgstr ""
+msgstr "Log de modificações da versão"
 
 #. Default: "Codename"
 #: ../content/release.py:66
 msgid "label_release_codename"
-msgstr ""
+msgstr "Codinome da versão"
 
 #. Default: "Compatibility"
 #: ../content/release.py:211
 msgid "label_release_compatibility"
-msgstr ""
+msgstr "Compatível com"
 
 #. Default: "Description"
 #: ../content/releasefolder.py:48
 msgid "label_release_description"
-msgstr ""
+msgstr "Descrição"
 
 #. Default: "More about this release…"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:170
 msgid "label_release_details"
-msgstr ""
+msgstr "Mais sobre esta versão"
 
 #. Default: "(Expected) Release Date"
 #: ../content/release.py:160
 msgid "label_release_expected_date"
-msgstr ""
+msgstr "Data de lançamento da versão (Expectativa)"
 
 #. Default: "Feature freeze date"
 #: ../content/release.py:149
 msgid "label_release_feature_freeze_date"
-msgstr ""
+msgstr "Data limite para submeter funcionalidades"
 
 #. Default: "Proposals freeze date"
 #: ../content/release.py:138
 msgid "label_release_improvement_proposal_freeze_date"
-msgstr ""
+msgstr "Data limite para submeter propostas"
 
 #. Default: "License"
 #: ../content/release.py:173
 msgid "label_release_license"
-msgstr ""
+msgstr "Licença"
 
 #. Default: "Second License (if published under different licenses)"
 #: ../content/release.py:185
 msgid "label_release_license2"
-msgstr ""
+msgstr "Segunda licença (se for publicada sob licenças diferentes)"
 
 #. Default: "Third License (if published under different licenses)"
 #: ../content/release.py:198
 msgid "label_release_license3"
-msgstr ""
+msgstr "Terceira licença (se for publicada sob licenças diferentes)"
 
 #. Default: "Release number"
 #: ../content/release.py:55
 msgid "label_release_number"
-msgstr ""
+msgstr "Número da versão"
 
 #. Default: "Release Manager"
 #: ../content/release.py:118
 msgid "label_release_relmgr"
-msgstr ""
+msgstr "Responsável pela versão"
 
 #. Default: "Release Manager Contact E-mail"
 #: ../content/release.py:128
 msgid "label_release_relmgr_email"
-msgstr ""
+msgstr "Contato do responsável pela versão"
 
 #. Default: "Repository branch"
 #: ../content/release.py:236
 msgid "label_release_repository"
-msgstr ""
+msgstr "Repositório"
 
 #. Default: "Release Summary"
 #: ../content/release.py:79
 msgid "label_release_summary"
-msgstr ""
+msgstr "Descrição da versão"
 
 #. Default: "Release title"
 #: ../content/release.py:39
 msgid "label_release_title"
-msgstr ""
+msgstr "Título da versão"
 
 #. Default: "Version"
 #: ../content/release.py:28
 msgid "label_release_version"
-msgstr ""
+msgstr "Versão"
 
 #. Default: "Short name"
 #: ../content/releasefolder.py:24
 msgid "label_releasefolder_short_name"
-msgstr ""
+msgstr "Id"
 
 #. Default: "Title"
 #: ../content/releasefolder.py:36
 msgid "label_releasefolder_title"
-msgstr ""
+msgstr "Título"
 
 #. Default: "Code repository"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:54
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:109
 msgid "label_resource_code_repository"
-msgstr ""
+msgstr "Repositório de códigos"
 
 #. Default: "Contact address"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:84
 msgid "label_resource_contact_address"
-msgstr ""
+msgstr "Endereço de contato"
 
 #. Default: "If you are interested in getting the source code of this project, you can get it from the"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:100
 msgid "label_resource_getting_code"
-msgstr ""
+msgstr "Caso esteja interessado em obter os fontes do projeto, obtenha-os em"
 
 #. Default: "Issue tracker"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:64
 msgid "label_resource_issue_tracker"
-msgstr ""
+msgstr "Relatar bugs"
 
 #. Default: "External project page"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:44
 msgid "label_resource_project_page"
-msgstr ""
+msgstr "Página do projeto"
 
 #. Default: "Support"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:74
@@ -1387,7 +1387,7 @@ msgstr "Canal RSS"
 #. Default: "Screenshot — click to enlarge"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:123
 msgid "label_screenshot_click_to_enlarge"
-msgstr ""
+msgstr "PrintScreen - clique para ampliar"
 
 #. Default: "Self-Certification"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:66
