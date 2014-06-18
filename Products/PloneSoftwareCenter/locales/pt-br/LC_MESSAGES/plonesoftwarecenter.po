@@ -150,7 +150,7 @@ msgstr "Busca"
 #: ../content/validators.py:39
 #: ../validators.py:50
 msgid "Short name %s is invalid - it is the same as the name of a project category"
-msgstr ""
+msgstr "Nome curto %s é inválido - este é o mesmo nome de uma categoria do projeto"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:109
 msgid "Show"
