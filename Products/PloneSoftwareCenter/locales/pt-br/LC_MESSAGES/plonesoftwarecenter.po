@@ -154,7 +154,7 @@ msgstr ""
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:109
 msgid "Show"
-msgstr ""
+msgstr "Mostrar"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:139
 msgid "Sort On"
@@ -323,7 +323,7 @@ msgstr "Versionado"
 #. Default: "Release Manager"
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:175
 msgid "heading_relmanager"
-msgstr "Gestor da versão"
+msgstr "Responsável pela versão"
 
 #. Default: "Stable Releases"
 #: ../skins/plonesoftwarecenter/psc_releasefolder_view.pt:120
@@ -705,17 +705,17 @@ msgstr "Data em que é esperada uma versão final a ser feita ou já foi feita"
 #. Default: "Date after which no new features will added to the release"
 #: ../content/release.py:150
 msgid "help_release_feature_freeze_date"
-msgstr ""
+msgstr "Data posterior na qual nenhum novo recurso será adicionado à liberação "
 
 #. Default: "Date after which no more Improvement Proposals will be associated with the release"
 #: ../content/release.py:139
 msgid "help_release_improvement_proposal_freeze_date"
-msgstr ""
+msgstr "Data posterior na qual nenhuma Propostas de Melhoria serão associados com a versão"
 
 #. Default: "Release License: Please examine carefully which license you choose for your contribution. You can't  change it after the release."
 #: ../content/release.py:174
 msgid "help_release_license"
-msgstr ""
+msgstr "Licença da versão: Por favor, examine cuidadosamente qual licença você irá escolher para a sua contribuição. Você não pode mudá-la após o lançamento."
 
 #. "The release number. You do normally NOT need to adjust this manually. "
 #. "For example, if this is a beta and the release number is 2, "
@@ -726,22 +726,22 @@ msgstr ""
 #. Default: "The release number. You do normally NOT need to adjust this manually. For example, if this is a beta and the release number is 2, the release will be titled 'beta 2'. Note that this does not apply to final releases, nor to the first release (so beta 1 is just called 'beta'). Also note that this number will be automatically adjusted if you re-release using the 'state' menu."
 #: ../content/release.py:56
 msgid "help_release_number"
-msgstr ""
+msgstr "O número da versão. Você normalmente NÃO precisa ajustar isso manualmente. Por exemplo, se esta é uma versão beta e o número da versão for 2, a versão será intitulado 'beta 2'. Note que isso não se aplica a versões finais, nem a primeira versão (de modo beta 1 é chamado apenas de 'beta'). Observe também que este número será ajustado automaticamente se você relançar o usando o menu 'estado'."
 
 #. Default: "Release manager for this release."
 #: ../content/release.py:119
 msgid "help_release_relmgr"
-msgstr ""
+msgstr "Responsável para esta versão."
 
 #. Default: "Contact e-mail for Release Manager."
 #: ../content/release.py:129
 msgid "help_release_relmgr_email"
-msgstr ""
+msgstr "Email de contato para o Responsável da versão."
 
 #. Default: "URL of version control repository branch for this release."
 #: ../content/release.py:237
 msgid "help_release_repository"
-msgstr ""
+msgstr "URL do repositório de controle de versão para esta versão."
 
 #. "A short description of the most important "
 #. "focus of this release. Not a version history, "
@@ -750,12 +750,12 @@ msgstr ""
 #. Default: "A short description of the most important focus of this release. Not a version history, but in plain text what the main benefit of this release is."
 #: ../content/release.py:80
 msgid "help_release_summary"
-msgstr ""
+msgstr "Uma breve descrição do foco mais importante desta versão. Não é um histórico de versões, mas um texto simples de que a principal vantagem desta versão é..."
 
 #. Default: "The title of the release, computed from the title of the project and the version number."
 #: ../content/release.py:40
 msgid "help_release_title"
-msgstr ""
+msgstr "O título da versão, calculado a partir do título do projeto eo número da versão."
 
 #. "This field is also used in the URL "
 #. "of the item, so please don't use spaces and special "
@@ -765,71 +765,71 @@ msgstr ""
 #. Default: "This field is also used in the URL of the item, so please don't use spaces and special characters. Also, please do NOT include the alpha, beta, or release candidate state as this is handled by the workflow. Example: '0.1'."
 #: ../content/release.py:29
 msgid "help_release_version"
-msgstr ""
+msgstr "Este campo também é usado na URL do item, por favor, não use espaços ou caracteres especiais. Além disso, por favor, não incluem o estado da versão alfa, beta ou release candidate, isso já é tratado pelo fluxo de trabalho. Exemplo: '0.1'."
 
 #. Default: "Short name of the container - this should be 'release' to comply with the standards."
 #: ../content/releasefolder.py:25
 msgid "help_releasefolder_short_name"
-msgstr ""
+msgstr "Nome curto da pasta - este deve ser a 'versão' em conformidade com os padrões."
 
 #. Default: "Enter a title for the container"
 #: ../content/releasefolder.py:37
 msgid "help_releasefolder_title"
-msgstr ""
+msgstr "Digite um título para esta pasta."
 
 #. Default: "Additional notes by reviewers of this project."
 #: ../content/project.py:171
 msgid "help_review_comment"
-msgstr ""
+msgstr "Notas adicionais pelos revisores deste projeto."
 
 #. Default: "You will have a roadmap available in your project, and you can add categories of enhancement specifications below."
 #: ../content/proposalfolder.py:60
 msgid "help_roadmap_types"
-msgstr ""
+msgstr "Você terá um roteiro disponível em seu projeto, e você pode adicionar categorias de especificações de melhorias abaixo. "
 
 #. Default: "Check which criteria this project fulfills."
 #: ../content/project.py:147
 msgid "help_self_certification_checklist"
-msgstr ""
+msgstr "Verifique quais os critérios que este projeto cumpre."
 
 #. Default: "Define the available criteria for developers to self-certify their projects."
 #: ../content/root.py:165
 msgid "help_self_certification_criteria_vocab"
-msgstr ""
+msgstr "Definir os critérios disponíveis para os desenvolvedores auto-certificar seus projetos."
 
 #. Default: "<strong>Alpha</strong> releases should only be used for testing and development."
 #: ../skins/plonesoftwarecenter/portlet_project_roadmap.pt:66
 msgid "help_show_upcoming_alpha_releases"
-msgstr ""
+msgstr "Versões <strong>Alpha</strong> devem ser utilizados apenas para testes e desenvolvimento."
 
 #. Default: "<strong>Beta releases</strong> and <strong>Release Candidates</strong> are normally released for production testing, but should not be used on mission-critical sites."
 #: ../skins/plonesoftwarecenter/portlet_project_roadmap.pt:68
 msgid "help_show_upcoming_beta_releases"
-msgstr ""
+msgstr "<strong>Versões Beta</strong> e <strong>Versões Candidatas</strong> são normalmente liberados para testes de produção, mas não deve ser usado em sites com missão crítica."
 
 #. Default: "Always install on a separate test server first, and <a href=\"/documentation/faq/plone-backup-move\">make sure you have proper backups</a> before installing."
 #: ../skins/plonesoftwarecenter/portlet_project_roadmap.pt:71
 msgid "help_show_upcoming_test_releases"
-msgstr ""
+msgstr "Sempre instalar inicialmente em um servidor separado para testes, e <a href=\"/documentation/faq/plone-backup-move\"> verifique se você tem backups</a> adequados antes de instalar."
 
 #. Default: "Defines the storage strategies for files"
 #: ../content/root.py:232
 msgid "help_storage_strategy"
-msgstr ""
+msgstr "Define as estratégias de armazenamento para os arquivos"
 
 #. Default: "Define the vocabulary for versions that software releases can be listed as being compatible with. The first item will be the default selection."
 #: ../content/root.py:120
 msgid "help_versions_vocab"
-msgstr ""
+msgstr "Definir o vocabulário para as versões de que as versões de software podem ser listados como sendo compatível. O primeiro item da seleção será o padrão."
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:227
 msgid "in"
-msgstr ""
+msgstr "em"
 
 #. Default: "Add New Software Project"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:58
 msgid "label_add_new_software_project"
-msgstr ""
+msgstr "Criar novo projeto"
 
 #. Default: "Product Description"
 #: ../content/root.py:183
@@ -870,7 +870,7 @@ msgstr "Versão atual"
 #. Default: "Currently listing ${label_project_count} projects with ${label_release_count} releases."
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:83
 msgid "label_currently_listing_projects_releases"
-msgstr ""
+msgstr "Atualmente listando ${label_project_count} projetos com ${label_release_count} versões. "
 
 #. Default: "Description"
 #: ../content/docfolder.py:54
@@ -895,89 +895,89 @@ msgstr "Versão de teste"
 #. Default: "Featured Project"
 #: ../content/root.py:210
 msgid "label_featured_project"
-msgstr ""
+msgstr "Projeto em Destaque"
 
 #. Default: "Featured Project Release"
 #: ../content/root.py:221
 msgid "label_featured_project_release"
-msgstr ""
+msgstr "Versão de Projeto em Destaque"
 
 #. Default: "File"
 #: ../content/downloadablefile.py:45
 msgid "label_file_description"
-msgstr ""
+msgstr "Arquivo"
 
 #. Default: "File size"
 #: ../content/filelink.py:56
 msgid "label_file_ext_size"
-msgstr ""
+msgstr "Tamanho do arquivo"
 
 #. Default: "URL for externally hosted file"
 #: ../content/filelink.py:46
 msgid "label_file_ext_url"
-msgstr ""
+msgstr "URL para o arquivo hospedado externamente"
 
 #. Default: "Platform"
 #: ../content/downloadablefile.py:57
 #: ../content/filelink.py:35
 msgid "label_file_platform"
-msgstr ""
+msgstr "Plataforma"
 
 #. Default: "File Description"
 #: ../content/downloadablefile.py:35
 #: ../content/filelink.py:23
 msgid "label_file_title"
-msgstr ""
+msgstr "Descrição do arquivo"
 
 #. Default: "Get"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:188
 msgid "label_get"
-msgstr ""
+msgstr "Obter"
 
 #. Default: "Go directly to project…"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:44
 msgid "label_go_directly_project"
-msgstr ""
+msgstr "Ir diretamente ao projeto..."
 
 #. Default: "Go to the release folder to add or publish a release."
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:115
 msgid "label_goto_release_folder"
-msgstr "Ir para a pasta de lançamentos para adicionar ou publicar um lançamento."
+msgstr "Acesse a pasta de versões para adicionar ou publicar uma versão."
 
 #. Default: "Independent Review"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:77
 msgid "label_independent_review"
-msgstr ""
+msgstr "Revisor independente"
 
 #. Default: "Product Installation Instructions"
 #: ../content/root.py:198
 msgid "label_installation_instructions"
-msgstr ""
+msgstr "Instruções de instalação do produto"
 
 #. Default: "Available licenses"
 #: ../content/root.py:101
 msgid "label_licenses_vocab"
-msgstr ""
+msgstr "licenças disponíveis"
 
 #. Default: "This release is no longer supported! If you are using this release, please upgrade to a newer version if possible."
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:45
 msgid "label_message_no_longer_supported"
-msgstr ""
+msgstr "Esta versão não é mais suportada! Caso você utilize esta versão, por favor atualize para uma mais nova, se possível. "
 
 #. Default: "This is not a final release. Experimental releases should only be used for testing and development. Do not use these on production sites, and make sure you have proper backups before installing."
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:51
 msgid "label_message_not_final_release"
-msgstr ""
+msgstr "Esta não é uma versão final. As versões experimentais devem ser utilizados apenas para testes e desenvolvimento. Não usá-los nos sites em produção, e certifique-se que você tem backups apropriados antes de instalar. "
 
 #. Default: "A release needs to be published before it will show up in the download listings of the software center. You should make a release using the 'state' drop-down when work on the release is completed and downloadable files have been added. There is no approval required to make a release."
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:63
 msgid "label_message_not_released"
-msgstr ""
+msgstr "Uma versão deve ser publicada antes de aparecer na lista de download do center software. Você deve fazer uma versão usando o 'estado' suspenso quando o trabalho sobre a versão seja concluída e arquivos baixados foram adicionados. Não há aprovação necessária para fazer uma versão."
 
 #. Default: "Description"
 #: ../content/root.py:42
 msgid "label_package_area"
-msgstr ""
+msgstr "Descrição"
 
 #. Default: "Full Project Description"
 #: ../content/project.py:69
@@ -1017,7 +1017,7 @@ msgstr "Lista de suporte por email ou URL do fórum"
 #. Default: "URL of version control repository"
 #: ../content/project.py:225
 msgid "label_package_repository"
-msgstr ""
+msgstr "URL do repositório de controle de versão"
 
 #. Default: "Screenshot"
 #: ../content/project.py:280
@@ -1027,27 +1027,27 @@ msgstr ""
 #. Default: "Issue tracker URL"
 #: ../content/project.py:236
 msgid "label_package_tracker"
-msgstr ""
+msgstr "URL para registro de incidentes (Issue tracker)"
 
 #. Default: "Platforms"
 #: ../content/root.py:137
 msgid "label_platforms_vocab"
-msgstr ""
+msgstr "Plataformas"
 
 #. Default: "Category:"
 #: ../skins/plonesoftwarecenter/portlet_project_info.pt:24
 msgid "label_portlet_project_info_category"
-msgstr ""
+msgstr "Categoria:"
 
 #. Default: "Project owner: ${name_portlet_project_resources_owner}"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:95
 msgid "label_portlet_project_resources_owner"
-msgstr ""
+msgstr "Responsável pelo projeto: ${name_portlet_project_resources_owner} "
 
 #. Default: "Powered by"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:158
 msgid "label_powered_by"
-msgstr ""
+msgstr "Desenvolvido por "
 
 #. Default: "Plone Software Center"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:162
@@ -1072,7 +1072,7 @@ msgstr ""
 #. Default: "Distutils secondary Ids"
 #: ../content/project.py:121
 msgid "label_project_distutils_secondary_ids"
-msgstr ""
+msgstr "Distutils id secundário"
 
 #. Default: "Download Count"
 #: ../content/project.py:131
@@ -1082,12 +1082,12 @@ msgstr "Contador de download"
 #. Default: "Project Evaluators"
 #: ../content/root.py:147
 msgid "label_project_evaluators"
-msgstr "Auditores"
+msgstr "Avaliadores do projeto"
 
 #. Default: "Project Resources"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:15
 msgid "label_project_resources"
-msgstr "Recursos do projeto"
+msgstr "Recursos do Projeto"
 
 #. Default: "Documentation"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:34
@@ -1097,17 +1097,17 @@ msgstr "Documentação"
 #. Default: "Short name"
 #: ../content/project.py:40
 msgid "label_project_short_name"
-msgstr "Id"
+msgstr "Nome curto"
 
 #. Default: "Project Summary"
 #: ../content/project.py:53
 msgid "label_project_summary"
-msgstr "Descrição do projeto"
+msgstr "Resumo do projeto"
 
 #. Default: "Projects in category ${label_projects_category_name}"
 #: ../skins/plonesoftwarecenter/by-category.pt:37
 msgid "label_projects_by_category"
-msgstr "Projetos da categoria "
+msgstr "Projetos na categoria ${label_projects_category_name} "
 
 #. Default: "Proposal"
 #: ../content/proposal.py:113
@@ -1122,7 +1122,7 @@ msgstr "Premissas"
 #. Default: "Branch name/URL"
 #: ../content/proposal.py:229
 msgid "label_proposal_branch_name_url"
-msgstr "Nome/URL do Branch"
+msgstr " Nome/URL do Branch"
 
 #. Default: "Definitions"
 #: ../content/proposal.py:128
@@ -1157,12 +1157,12 @@ msgstr "Participantes"
 #. Default: "Progress log"
 #: ../content/proposal.py:202
 msgid "label_proposal_progress_log"
-msgstr "Progresso"
+msgstr "Registro de progresso"
 
 #. Default: "Proposer"
 #: ../content/proposal.py:44
 msgid "label_proposal_proposer"
-msgstr "Propositor"
+msgstr "Proponente"
 
 #. Default: "Related Releases"
 #: ../content/proposal.py:240
@@ -1177,12 +1177,12 @@ msgstr "Riscos"
 #. Default: "Seconder"
 #: ../content/proposal.py:56
 msgid "label_proposal_seconder"
-msgstr "Co-propositor"
+msgstr "Co-autor"
 
 #. Default: "Proposal Summary"
 #: ../content/proposal.py:69
 msgid "label_proposal_summary"
-msgstr "Descrição da proposta"
+msgstr "Resumo da proposta"
 
 #. Default: "Proposal types"
 #: ../content/proposal.py:84
@@ -1197,7 +1197,7 @@ msgstr "Descrição"
 #. Default: "Short name"
 #: ../content/proposalfolder.py:23
 msgid "label_proposalfolder_short_name"
-msgstr "Id"
+msgstr "Nome curto"
 
 #. Default: "Title"
 #: ../content/proposalfolder.py:35
@@ -1207,12 +1207,12 @@ msgstr "Título"
 #. Default: "Show all"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:144
 msgid "label_psc_show_all_projects"
-msgstr "Exibir todos"
+msgstr "Mostrar todos"
 
 #. Default: "projects in this category…"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:146
 msgid "label_psc_show_all_projects_category"
-msgstr "Projetos nesta categoria..."
+msgstr "projetos nessa categoria..."
 
 #. Default: "Read more…"
 #: ../skins/plonesoftwarecenter/psc_release_listing.pt:42
@@ -1224,12 +1224,12 @@ msgstr "Leia mais"
 #. Default: "For additional information about this project, please visit the overview page"
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:76
 msgid "label_release_additional_information"
-msgstr "Pra informações adicionais, visite a página principal do projeto"
+msgstr "Para informações adicionais sobro o projeto, por favor visite a pagina de visão geral "
 
 #. Default: "Associated feature proposals"
 #: ../content/release.py:223
 msgid "label_release_associated_feature_proposals"
-msgstr "Propostas de funcionalidades associadas"
+msgstr "Característica associada à proposta "
 
 #. Default: "Full Release Description"
 #: ../content/release.py:93
@@ -1239,17 +1239,17 @@ msgstr "Descrição completa da versão"
 #. Default: "Changelog"
 #: ../content/release.py:107
 msgid "label_release_changelog"
-msgstr "Log de modificações da versão"
+msgstr "Mudanças"
 
 #. Default: "Codename"
 #: ../content/release.py:66
 msgid "label_release_codename"
-msgstr "Codinome da versão"
+msgstr "Codinome"
 
 #. Default: "Compatibility"
 #: ../content/release.py:211
 msgid "label_release_compatibility"
-msgstr "Compatível com"
+msgstr "Compatibilidade"
 
 #. Default: "Description"
 #: ../content/releasefolder.py:48
@@ -1259,22 +1259,22 @@ msgstr "Descrição"
 #. Default: "More about this release…"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:170
 msgid "label_release_details"
-msgstr "Mais sobre esta versão"
+msgstr "Mais sobre esta versão..."
 
 #. Default: "(Expected) Release Date"
 #: ../content/release.py:160
 msgid "label_release_expected_date"
-msgstr "Data de lançamento da versão (Expectativa)"
+msgstr "Data de lançamento (Prevista) "
 
 #. Default: "Feature freeze date"
 #: ../content/release.py:149
 msgid "label_release_feature_freeze_date"
-msgstr "Data limite para submeter funcionalidades"
+msgstr "Data de congelamento das atualizações"
 
 #. Default: "Proposals freeze date"
 #: ../content/release.py:138
 msgid "label_release_improvement_proposal_freeze_date"
-msgstr "Data limite para submeter propostas"
+msgstr "Data de congelamento das propostas"
 
 #. Default: "License"
 #: ../content/release.py:173
@@ -1284,12 +1284,12 @@ msgstr "Licença"
 #. Default: "Second License (if published under different licenses)"
 #: ../content/release.py:185
 msgid "label_release_license2"
-msgstr "Segunda licença (se for publicada sob licenças diferentes)"
+msgstr "Segunda Licença (se publicado sobre licenças diferentes)"
 
 #. Default: "Third License (if published under different licenses)"
 #: ../content/release.py:198
 msgid "label_release_license3"
-msgstr "Terceira licença (se for publicada sob licenças diferentes)"
+msgstr "Terceira Licença (se publicado sobre licenças diferentes)"
 
 #. Default: "Release number"
 #: ../content/release.py:55
@@ -1304,17 +1304,17 @@ msgstr "Responsável pela versão"
 #. Default: "Release Manager Contact E-mail"
 #: ../content/release.py:128
 msgid "label_release_relmgr_email"
-msgstr "Contato do responsável pela versão"
+msgstr "Email de contado do responsável pela versão"
 
 #. Default: "Repository branch"
 #: ../content/release.py:236
 msgid "label_release_repository"
-msgstr "Repositório"
+msgstr "Repositório branch"
 
 #. Default: "Release Summary"
 #: ../content/release.py:79
 msgid "label_release_summary"
-msgstr "Descrição da versão"
+msgstr "Resumo da Versão"
 
 #. Default: "Release title"
 #: ../content/release.py:39
@@ -1329,7 +1329,7 @@ msgstr "Versão"
 #. Default: "Short name"
 #: ../content/releasefolder.py:24
 msgid "label_releasefolder_short_name"
-msgstr "Id"
+msgstr "Nome curto"
 
 #. Default: "Title"
 #: ../content/releasefolder.py:36
@@ -1340,7 +1340,7 @@ msgstr "Título"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:54
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:109
 msgid "label_resource_code_repository"
-msgstr "Repositório de códigos"
+msgstr "Repositório de código"
 
 #. Default: "Contact address"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:84
@@ -1350,17 +1350,17 @@ msgstr "Endereço de contato"
 #. Default: "If you are interested in getting the source code of this project, you can get it from the"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:100
 msgid "label_resource_getting_code"
-msgstr "Caso esteja interessado em obter os fontes do projeto, obtenha-os em"
+msgstr "Se você estiver interessado em obter o código-fonte do projeto, você pode obtê-lo a partir do"
 
 #. Default: "Issue tracker"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:64
 msgid "label_resource_issue_tracker"
-msgstr "Relatar bugs"
+msgstr "Registro de incidentes(Issue tracker)"
 
 #. Default: "External project page"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:44
 msgid "label_resource_project_page"
-msgstr "Página do projeto"
+msgstr "Página externa do projeto"
 
 #. Default: "Support"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:74
@@ -1387,7 +1387,7 @@ msgstr "Canal RSS"
 #. Default: "Screenshot — click to enlarge"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:123
 msgid "label_screenshot_click_to_enlarge"
-msgstr "PrintScreen - clique para ampliar"
+msgstr "Captura de tela - clique para ampliar"
 
 #. Default: "Self-Certification"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:66
