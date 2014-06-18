@@ -171,7 +171,7 @@ msgstr "Enviar seu ${product_title_addon}"
 #: ../content/validators.py:96
 #: ../validators.py:110
 msgid "This contains packages already claimed by another project."
-msgstr ""
+msgstr "Este contém pacotes já reivindicadas por outro projeto."
 
 #: ../content/validators.py:94
 #: ../validators.py:108
@@ -1022,7 +1022,7 @@ msgstr "URL do repositório de controle de versão"
 #. Default: "Screenshot"
 #: ../content/project.py:280
 msgid "label_package_screenshot"
-msgstr ""
+msgstr "Captura de tela"
 
 #. Default: "Issue tracker URL"
 #: ../content/project.py:236
