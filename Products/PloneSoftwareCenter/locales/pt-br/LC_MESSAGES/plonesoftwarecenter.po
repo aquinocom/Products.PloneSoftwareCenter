@@ -198,12 +198,12 @@ msgstr "Você deve fornecer uma lista de nomes de pacotes"
 #: ../content/validators.py:80
 #: ../validators.py:94
 msgid "You must set the primary package before you can select secondary packages."
-msgstr ""
+msgstr "Você deve definir o pacote principal antes que você possa selecionar pacotes secundários."
 
 #. Default: "The available projects in this category, alphabetized."
 #: ../skins/plonesoftwarecenter/by-category.pt:61
 msgid "available_projects_category"
-msgstr ""
+msgstr "Os projetos disponíveis nesta categoria, em ordem alfabética."
 
 #. Default: "Latest releases"
 #: ../skins/plonesoftwarecenter/portlet_releases.pt:40
@@ -213,12 +213,12 @@ msgstr "Últimos Lançamentos"
 #. Default: "More Releases…"
 #: ../skins/plonesoftwarecenter/portlet_releases.pt:77
 msgid "box_more_projects"
-msgstr ""
+msgstr "Mais versões"
 
 #. Default: "Indicate whether this project is approved by product reviewers."
 #: ../content/project.py:159
 msgid "description_approved"
-msgstr ""
+msgstr "Indique se este projeto for aprovado pelos revisores de produtos."
 
 #. Default: "There are no available software files in this release yet."
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:91
